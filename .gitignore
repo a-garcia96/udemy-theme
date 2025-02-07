@@ -1,0 +1,30 @@
+# WordPress theme specific
+*.log
+*.sql
+*.sqlite
+*.db
+*.bak
+*.old
+
+# Node dependencies (if applicable)
+node_modules/
+
+# Compiled source
+*.css.map
+*.js.map
+
+# Sass cache
+.sass-cache/
+
+# WordPress core files (not needed for a theme)
+!.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
